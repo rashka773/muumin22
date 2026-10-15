@@ -1,0 +1,218 @@
+[
+  {
+    "id": "erayo-001",
+    "category": "erayo",
+    "level": 1,
+    "title": "Water",
+    "amharic": "ውሃ",
+    "pronunciation": "wuha",
+    "somali": "Biyo",
+    "english": "Water",
+    "example": "እባክህ ውሃ ስጠኝ (Please give me water)",
+    "audioFile": "https://example-r2-bucket.com/audio/erayo/erayo-001.mp3",
+    "image": "https://example-r2-bucket.com/images/erayo-001.png",
+    "quizQuestions": [
+      {
+        "id": "erayo-001-q1",
+        "type": "multiple_choice",
+        "direction": "am-to-so",
+        "prompt": "ውሃ",
+        "options": ["Biyo", "Cunto", "Guri", "Buug"],
+        "correctAnswer": "Biyo"
+      },
+      {
+        "id": "erayo-001-q2",
+        "type": "listening",
+        "prompt": "ውሃ",
+        "audioFile": "https://example-r2-bucket.com/audio/erayo/erayo-001.mp3",
+        "options": ["\u012b\u0125\u12eb", "\u12a5\u1295\u1273", "\u1260\u1275", "\u1218\u1265\u1240\u120b"],
+        "correctAnswer": "\u012b\u0125\u12eb"
+      }
+    ]
+
+  },
+  {
+    "id": "erayo-002",
+    "category": "erayo",
+    "level": 1,
+    "title": "Bread",
+    "amharic": "ገብስ",
+    "pronunciation": "zebis",
+    "somali": "Rooti",
+    "english": "Bread",
+    "example": "\u12dd\u1265\u1235 \u12a5\u1218\u1230\u130d\u1293\u1208\u1201 (I like bread)",
+    "audioFile": "https://example-r2-bucket.com/audio/erayo/erayo-002.mp3",
+    "image": "https://example-r2-bucket.com/images/erayo-002.png",
+    "quizQuestions": [
+      {
+        "id": "erayo-002-q1",
+        "type": "multiple_choice",
+        "direction": "so-to-am",
+        "prompt": "Rooti",
+        "options": ["\u12dd\u1265\u1235", "\u12a5\u1295\u1273", "\u1264\u1275", "\u12c8\u1200"],
+        "correctAnswer": "\u12dd\u1265\u1235"
+      }
+    ]
+  },
+  {
+    "id": "weedho-001",
+    "category": "weedho",
+    "level": 1,
+    "title": "Thank you",
+    "amharic": "\u12a5\u1298\u12ae\u1275 \u12a0\u1218\u1230\u130d\u1293\u1208\u1201",
+    "pronunciation": "ameseginalehu",
+    "somali": "Mahadsanid",
+    "english": "Thank you",
+    "example": "\u12a5\u1298\u12ae\u1275 \u12a0\u1218\u1230\u130d\u1293\u1208\u1201 \u1208\u12a5\u122d\u12b3\u1273\u1205\u1295 (Thank you for your help)",
+    "audioFile": "https://example-r2-bucket.com/audio/weedho/weedho-001.mp3",
+    "image": "https://example-r2-bucket.com/images/weedho-001.png",
+    "quizQuestions": [
+      {
+        "id": "weedho-001-q1",
+        "type": "multiple_choice",
+        "direction": "am-to-so",
+        "prompt": "\u12a5\u1298\u12ae\u1275 \u12a0\u1218\u1230\u130d\u1293\u1208\u1201",
+        "options": ["Mahadsanid", "Fadlan", "Iska warran", "Nabadgelyo"],
+        "correctAnswer": "Mahadsanid"
+      }
+    ]
+  },
+  {
+    "id": "weedho-002",
+    "category": "weedho",
+    "level": 1,
+    "title": "How are you?",
+    "amharic": "\u12dd\u130a\u1275 \u1290\u12ca?",
+    "pronunciation": "dej neh?",
+    "somali": "Sidee tahay?",
+    "english": "How are you? (to a male)",
+    "example": "\u12dd\u130a\u1275 \u1290\u12ca? \u1235\u120b\u121d \u1290\u129b\u12cd (How are you? I am fine)",
+    "audioFile": "https://example-r2-bucket.com/audio/weedho/weedho-002.mp3",
+    "image": "https://example-r2-bucket.com/images/weedho-002.png",
+    "quizQuestions": [
+      {
+        "id": "weedho-002-q1",
+        "type": "listening",
+        "prompt": "",
+        "audioFile": "https://example-r2-bucket.com/audio/weedho/weedho-002.mp3",
+        "options": ["\u12dd\u130a\u1275 \u1290\u12ca?", "\u12a5\u1298\u12ae\u1275", "\u12ed\u1245\u122d\u1273", "\u12a0\u1218\u1230\u130d\u1293\u1208\u1201"],
+        "correctAnswer": "\u12dd\u130a\u1275 \u1290\u12ca?"
+      }
+    ]
+  },
+  {
+    "id": "wadahadal-001",
+    "category": "wadahadal",
+    "level": 2,
+    "title": "At the market",
+    "amharic": "\u12ed\u1205 \u12cd\u1273\u127d \u1260\u12a5\u1295\u12f0\u1275 \u1290\u12cd?",
+    "pronunciation": "yih wetach beend new?",
+    "somali": "Alaabtani immisa baa?",
+    "english": "How much is this?",
+    "example": "\u12ed\u1205 \u12cd\u1273\u127d \u1260\u12a5\u1295\u12f0\u1275 \u1290\u12cd? \u1213\u121b\u1233 \u1265\u122d 50 \u1290\u12cd (How much is this? It is 50 birr)",
+    "audioFile": "https://example-r2-bucket.com/audio/wadahadal/wadahadal-001.mp3",
+    "image": "https://example-r2-bucket.com/images/wadahadal-001.png",
+    "quizQuestions": [
+      {
+        "id": "wadahadal-001-q1",
+        "type": "multiple_choice",
+        "direction": "am-to-so",
+        "prompt": "\u12ed\u1205 \u12cd\u1273\u127d \u1260\u12a5\u1295\u12f0\u1275 \u1290\u12cd?",
+        "options": ["Alaabtani immisa baa?", "Waa maxay magacaaga?", "Xagee baad joogtaa?", "Waan fiicanahay"],
+        "correctAnswer": "Alaabtani immisa baa?"
+      }
+    ]
+  },
+  {
+    "id": "wadahadal-002",
+    "category": "wadahadal",
+    "level": 2,
+    "title": "Ordering food",
+    "amharic": "\u12a5\u1263\u12ad\u12c8 \u121d\u1295\u12ed \u12a0\u1208\u12cd?",
+    "pronunciation": "ebakwo mini alewu?",
+    "somali": "Fadlan maxaa aad haysataa?",
+    "english": "Please, what do you have?",
+    "example": "\u12a5\u1263\u12ad\u12c8 \u121d\u1295\u12ed \u12a0\u1208\u12cd? \u12ed\u1205 \u12ed\u1206\u1290\u120b\u120d (Please, what do you have? This exists)",
+    "audioFile": "https://example-r2-bucket.com/audio/wadahadal/wadahadal-002.mp3",
+    "image": "https://example-r2-bucket.com/images/wadahadal-002.png",
+    "quizQuestions": [
+      {
+        "id": "wadahadal-002-q1",
+        "type": "multiple_choice",
+        "direction": "so-to-am",
+        "prompt": "Fadlan maxaa aad haysataa?",
+        "options": ["\u12a5\u1263\u12ad\u12c8 \u121d\u1295\u12ed \u12a0\u1208\u12cd?", "\u12a5\u1298\u12ae\u1275", "\u12dd\u130a\u1275 \u1290\u12ca?", "\u12ed\u1245\u122d\u1273"],
+        "correctAnswer": "\u12a5\u1263\u12ad\u12c8 \u121d\u1295\u12ed \u12a0\u1208\u12cd?"
+      }
+    ]
+  },
+  {
+    "id": "naxwe-001",
+    "category": "naxwe",
+    "level": 2,
+    "title": "Present tense: to be",
+    "amharic": "\u1290\u12cd / \u1290\u123b\u1275",
+    "pronunciation": "new / nesh",
+    "somali": "waa (lab/dheddig)",
+    "english": "is (masculine/feminine)",
+    "example": "\u12a5\u1231 \u1218\u121b\u122a \u1290\u12cd (He is a teacher)",
+    "audioFile": "https://example-r2-bucket.com/audio/naxwe/naxwe-001.mp3",
+    "image": "https://example-r2-bucket.com/images/naxwe-001.png",
+    "quizQuestions": [
+      {
+        "id": "naxwe-001-q1",
+        "type": "multiple_choice",
+        "direction": "am-to-so",
+        "prompt": "\u1290\u12cd / \u1290\u123b\u1275",
+        "options": ["waa (lab/dheddig)", "immisa", "xagee", "goorma"],
+        "correctAnswer": "waa (lab/dheddig)"
+      }
+    ]
+  },
+  {
+    "id": "naxwe-002",
+    "category": "naxwe",
+    "level": 2,
+    "title": "Plural nouns",
+    "amharic": "\u1276\u127d",
+    "pronunciation": "-woch",
+    "somali": "dhammaadka jamaca (-yaal/-o)",
+    "english": "plural suffix",
+    "example": "\u1218\u1215\u1260\u122e\u127d (books) \u2014 \u1218\u1215\u1260\u122d + \u1276\u127d",
+    "audioFile": "https://example-r2-bucket.com/audio/naxwe/naxwe-002.mp3",
+    "image": "https://example-r2-bucket.com/images/naxwe-002.png",
+    "quizQuestions": [
+      {
+        "id": "naxwe-002-q1",
+        "type": "listening",
+        "prompt": "",
+        "audioFile": "https://example-r2-bucket.com/audio/naxwe/naxwe-002.mp3",
+        "options": ["\u1276\u127d", "\u1290\u12cd", "\u12dd\u1265\u1235", "\u012b\u0125\u12eb"],
+        "correctAnswer": "\u1276\u127d"
+      }
+    ]
+  },
+  {
+  "id": "erayo-003",
+  "category": "erayo",
+  "level": 1,
+  "title": "Milk",
+  "amharic": "ወተት",
+  "pronunciation": "wetet",
+  "somali": "Caano",
+  "english": "Milk",
+  "example": "ወተት እፈልጋለሁ (I want milk)",
+  "audioFile": "https://example-r2-bucket.com/audio/erayo/erayo-003.mp3",
+  "image": "https://example-r2-bucket.com/images/erayo-003.png",
+  "quizQuestions": [
+    {
+      "id": "erayo-003-q1",
+      "type": "multiple_choice",
+      "direction": "am-to-so",
+      "prompt": "ወተት",
+      "options": ["Caano", "Biyo", "Rooti", "Sonkor"],
+      "correctAnswer": "Caano"
+    }
+  ]
+}
+]
