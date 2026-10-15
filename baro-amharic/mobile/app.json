@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Baro Amharic",
+    "slug": "baro-amharic",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0B3D2E"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.baroamharic.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B3D2E"
+      },
+      "package": "com.baroamharic.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
